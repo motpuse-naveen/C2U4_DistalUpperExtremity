@@ -1,6 +1,5 @@
 [
 
-	
 	{
 		"header": {
 			"titleText": "Distal Upper Extremity"
@@ -1127,7 +1126,7 @@
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
 		]
 	},
-
+	
 	{
 		"header": {
 			"titleText": "Distal Upper Extremity"
@@ -1179,7 +1178,7 @@
 		],
 		"DropPosition": [
 			"Left",
-			"Top",
+			"Left",
 			"Right",
 			"Left",
 			"Right"
